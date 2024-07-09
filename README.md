@@ -1,1 +1,1 @@
-# Encryption_Decryption
+The algorithm presented here is a Simple Shift Cipher, also known as the Caesar cipher. It operates by shifting each character in the plaintext by a fixed number of positions in the ASCII table to produce the ciphertext. This type of algorithm falls under the category of Symmetric Key Algorithms, where the same key (shift value) is used for both encryption and decryption.
